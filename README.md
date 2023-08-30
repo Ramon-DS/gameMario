@@ -1,6 +1,12 @@
 # Game Mario criado no p5.js 🎮
 
-<li> O objetivo do jogo é levar o Mario até o castelo, posicionado em 512x512. Ao reinicar o jogo o player volta para o inicio da tela.
+<div align="center">
+<img src="https://github.com/Ramon-DS/gameMario/assets/95456866/89e85041-b47b-46c4-aa64-94f9d4a66cc6" width="150px" />
+</div>
+
+<li>  O objetivo do jogo é levar o Mario até o castelo, posicionado em 512x512. 
+  
+Ao reinicar o jogo o player volta para o inicio da tela.
 
 Utilizamos funções do p5.js para facilitar a criação, uma vez que essa foi a primeira aula prática do curso de desenvolvimento de software back-end
 
@@ -86,5 +92,13 @@ Você pode conferir todo o código do game no arquivo: game.js ou acessar direto
 </li>
 
 
-![Start Game](https://editor.p5js.org/Ramon-DS/sketches/TWJ7mqHqf)
+## Start GAME!
+![image](https://github.com/Ramon-DS/gameMario/assets/95456866/d74a1eee-48c6-465d-afb1-f44c63eee687)
+
+## Game Over!
+
+![image](https://github.com/Ramon-DS/gameMario/assets/95456866/d5fada8f-ce99-45ea-8428-3f48139a1cda)
+
+
+
 
