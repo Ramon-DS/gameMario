@@ -4,6 +4,6 @@
 
 Utilizamos funções do p5.js para facilitar a criação, uma vez que essa foi a primeira aula prática do curso de desenvolvimento de software back-end
 
-Criado apenas o básico, a medida da evolução do aprendizado vou melhorando o código e consequentemente o joogo.
+Criado apenas o básico, a medida da evolução do aprendizado vou melhorando o código e consequentemente o jogo.
 
 </li>
